@@ -3,11 +3,11 @@ using namespace std;
 
 int main()
 {
-    int num1, num2, mult;
+    int num1, num2, div;
     cout<<"Enter Two Numbers: ";
     cin>>num1>>num2;
-    mult = num1*num2;
-    cout<<"\nResult = "<<mult;
+    div = num1*num2;
+    cout<<"\nResult = "<<div;
     cout<<endl;
     return 0;
 }
